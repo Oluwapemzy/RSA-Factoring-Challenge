@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import sys, time
+import sys
 my_arg = sys.argv
 foo = open(file=my_arg[1], mode="r")
 for num in foo:
